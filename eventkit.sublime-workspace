@@ -1,0 +1,1148 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"full",
+				"full_remote_path"
+			],
+			[
+				"manifes",
+				"manifest_json"
+			],
+			[
+				"manife",
+				"manifest_location"
+			],
+			[
+				"insert",
+				"insertQuery"
+			],
+			[
+				"insertNotif",
+				"insertNotifications"
+			],
+			[
+				"table",
+				"table_columns"
+			],
+			[
+				"sche",
+				"schemas"
+			],
+			[
+				"notifi",
+				"notification"
+			],
+			[
+				"schem",
+				"schema"
+			],
+			[
+				"notifica",
+				"notifications"
+			],
+			[
+				"insertNoti",
+				"insertNotifications"
+			],
+			[
+				"brand",
+				"brand_height"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"result",
+				"results"
+			],
+			[
+				"details",
+				"detailedSearchResults"
+			],
+			[
+				"action",
+				"actions"
+			],
+			[
+				"backg",
+				"backgroundPosition"
+			],
+			[
+				"hover",
+				"hoverPosition"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"template",
+				"template_contents"
+			],
+			[
+				"templa",
+				"template_contents"
+			],
+			[
+				"templ",
+				"template_path"
+			],
+			[
+				"bundle",
+				"bundle_path"
+			],
+			[
+				"bundl",
+				"bundle_path"
+			],
+			[
+				"bund",
+				"bundle_path"
+			],
+			[
+				"codebun",
+				"codebundle"
+			],
+			[
+				"not",
+				"notfound"
+			],
+			[
+				"leng",
+				"lengthPass"
+			],
+			[
+				"link",
+				"link_size"
+			],
+			[
+				"font",
+				"font_percent"
+			],
+			[
+				"nav",
+				"nav_bar_height"
+			],
+			[
+				"array",
+				"array_of_events"
+			],
+			[
+				"even",
+				"event_name"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"address",
+				"addresses"
+			],
+			[
+				"addres",
+				"addresses"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"top",
+				"topPosition"
+			],
+			[
+				"border",
+				"borderRadius"
+			],
+			[
+				"elemn",
+				"elementIDs"
+			],
+			[
+				"all",
+				"all_agents"
+			],
+			[
+				"agent",
+				"agent_circle"
+			],
+			[
+				"controll",
+				"controllers"
+			],
+			[
+				"activ",
+				"active_chat_list"
+			],
+			[
+				"local",
+				"localHour"
+			],
+			[
+				"loca",
+				"localHour"
+			],
+			[
+				"ava",
+				"available"
+			],
+			[
+				"available",
+				"availableThemes"
+			],
+			[
+				"agin",
+				"aging_tickets"
+			],
+			[
+				"agentContain",
+				"agentContainerWidth"
+			],
+			[
+				"agentCont",
+				"agentContainerHeight"
+			],
+			[
+				"agen",
+				"agent_info_hash"
+			],
+			[
+				"dummy",
+				"dummy-categories"
+			],
+			[
+				"appl",
+				"applyRestOfTheme"
+			],
+			[
+				"didRec",
+				"didReceiveHvFlag"
+			],
+			[
+				"chang",
+				"changeTheme"
+			],
+			[
+				"text",
+				"textStatus"
+			],
+			[
+				"meta",
+				"metadata"
+			],
+			[
+				"app",
+				"applyCurrentTheme"
+			],
+			[
+				"get",
+				"get	$.get()"
+			],
+			[
+				"gauge",
+				"gaugeColor"
+			],
+			[
+				"theme",
+				"themeController"
+			],
+			[
+				"currentT",
+				"currentTheme"
+			],
+			[
+				"secondary",
+				"secondaryColor"
+			],
+			[
+				"second",
+				"secondaryColor"
+			],
+			[
+				"currentThem",
+				"currentThemeID"
+			],
+			[
+				"append",
+				"appendTo	.appendTo()"
+			],
+			[
+				"load",
+				"loadFromEndpoint"
+			],
+			[
+				"getjson",
+				"getjson	$.getjson()"
+			],
+			[
+				"data",
+				"data	.data()"
+			],
+			[
+				"Statis",
+				"Statistics"
+			],
+			[
+				"controller",
+				"controllerFor"
+			],
+			[
+				"animat",
+				"animationTime"
+			],
+			[
+				"contr",
+				"controllers"
+			],
+			[
+				"active",
+				"activeChatGauge"
+			],
+			[
+				"phone",
+				"phoneCallGauge"
+			],
+			[
+				"aging",
+				"agingTicketGauge"
+			],
+			[
+				"resize",
+				"resizeApplication"
+			],
+			[
+				"bottomRow",
+				"bottomRowBox"
+			],
+			[
+				"queue",
+				"queueBoxWidth"
+			],
+			[
+				"queueBox",
+				"queueBoxHeight"
+			],
+			[
+				"graph",
+				"graphBoxHeight"
+			],
+			[
+				"inner",
+				"innerHeight	.innerHeight"
+			],
+			[
+				"paren",
+				"parentHeight"
+			],
+			[
+				"paddi",
+				"paddingHorizontal"
+			],
+			[
+				"char",
+				"chartBgColor"
+			],
+			[
+				"popu",
+				"populateGraph"
+			],
+			[
+				"chart",
+				"chart_container"
+			],
+			[
+				"dasb",
+				"dashboardWidth"
+			],
+			[
+				"dashbo",
+				"dashboardHeight"
+			],
+			[
+				"window",
+				"windowHeight"
+			],
+			[
+				"windo",
+				"windowHeight"
+			],
+			[
+				"deli",
+				"delivered"
+			],
+			[
+				"deliver",
+				"delivery_rate"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"searh",
+				"searchParams"
+			],
+			[
+				"resul",
+				"results"
+			],
+			[
+				"orig",
+				"orig_height"
+			],
+			[
+				"resizeTo",
+				"resizeToDimensions"
+			],
+			[
+				"imag",
+				"image_path"
+			],
+			[
+				"this_",
+				"this_url"
+			],
+			[
+				"reques",
+				"request_uri"
+			],
+			[
+				"this",
+				"this_uri"
+			],
+			[
+				"TIMEOUT",
+				"TIMEOUT_THRESHOLD"
+			],
+			[
+				"url",
+				"urls_json"
+			],
+			[
+				"TIM",
+				"TIMEOUT_THRESHOLD"
+			],
+			[
+				"timeout",
+				"timeouts"
+			],
+			[
+				"urls",
+				"urls_object"
+			],
+			[
+				"ur",
+				"urls_json"
+			],
+			[
+				"drop",
+				"dropReason"
+			],
+			[
+				"model",
+				"modelDidChange"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"key",
+				"key_value_string"
+			],
+			[
+				"array_wa",
+				"array_walk_recursive"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"Detail",
+				"DetailedSearchResultsRoute"
+			],
+			[
+				"outpu",
+				"outputCSV"
+			],
+			[
+				"addi",
+				"additional_arguments_value"
+			],
+			[
+				"add",
+				"additional_arguments"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"date",
+				"datepicker"
+			],
+			[
+				"detail",
+				"detailedSearch"
+			],
+			[
+				"script",
+				"SCRIPT	Tag"
+			],
+			[
+				"format",
+				"formatDateToLocal"
+			],
+			[
+				"search",
+				"searchParams"
+			],
+			[
+				"sear",
+				"searchParams"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"list-group",
+				"list-group-item"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1302,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/scottkawai/projects/codeworkshop.sublime-project",
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"github",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"Format: Ruby"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Github Flavored Markdown: Copy to Clipboard"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"coffe",
+				"Format: CoffeeScript"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"coff",
+				"Format: CoffeeScript"
+			],
+			[
+				"preview",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"ember",
+				"Snippet: Ember.Object.extend()"
+			],
+			[
+				"handl",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"han",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"h",
+				"Tidy HTML"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"handleb",
+				"Snippet: text/x-handlebars script tag"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"hand",
+				"Snippet: handlebars template"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"packaget list",
+				"Package Control: List Packages"
+			],
+			[
+				"Tidy",
+				"Tidy PHP"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 647.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/scottkawai/Library/Application Support/Sublime Text 2/Packages/README.md",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/DatabaseController.php",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/step1installer/index.php",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/Gruntfile.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/manifest.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/Downloader.php",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/Installer.php",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/api/curl-post.php",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/Step2Installer.php",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/api/success.php",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/views/dashboard.hbs",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/stylesheets/app/master.less",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/index.php",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/controllers/event_controller.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/controllers/application_controller.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/api/search.php",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/routes/search_route.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/controllers/search_controller.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/controllers/detailed_search_controller.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/controllers/detailed_search_results_controller.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/routes/detailed_search_results_route.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/application.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/views/search.hbs",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/views/event.hbs",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/helpers/helpers.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/views/detailed_search_results.hbs",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/controllers/dashboard_controller.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/routes/dashboard_route.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/controllers/app.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/router.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/routes/event_route.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/controllers/search.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/controllers/detailed_search_results_route.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/routes/detailed_search_route.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/views/detailed_search.hbs",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/views/all_views.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/views/detailedSearchResults.hbs",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/views/detailedSearch.hbs",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/views/email.hbs",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/views/application.hbs",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/javascripts/libs/bootstrap-3.1.1.js",
+		"/Users/scottkawai/Code/event_webhook_starter_kit/.gitignore",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/app/assets/javascripts/templates/application.handlebars",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/app/assets/javascripts/router.js",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/app/assets/javascripts/templates/navigation.handlebars",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/app/assets/javascripts/controllers/navigation_controller.js",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/app/assets/javascripts/routes/application_route.js",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/app/assets/stylesheets/codeworkshop.scss",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/app/assets/javascripts/templates/navigation.js",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/app/assets/javascripts/application.js",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/app/views/ember/start.html.erb",
+		"/Users/scottkawai/Code/hitchhiker/package.json",
+		"/Users/scottkawai/Code/hitchhiker/javascripts/application.js",
+		"/Users/scottkawai/Code/hitchhiker/Gruntfile.js",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/app/assets/stylesheets/application.css",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/config/routes.rb",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/app/controllers/api/v1/bundles_controller.rb",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/Gemfile",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/app/views/layouts/application.html.erb",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/config/application.rb",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/palette/lib/palette.rb",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/config/environments/development.rb",
+		"/Users/scottkawai/projects/sendgrid/CodeWorkshop/README.md",
+		"/Users/scottkawai/Desktop/CodeWorkshop/Gemfile",
+		"/Users/scottkawai/Desktop/CodeWorkshop/app/views/layouts/application.html.erb",
+		"/Users/scottkawai/Desktop/CodeWorkshop/app/assets/javascripts/router.js.coffee",
+		"/Users/scottkawai/Desktop/CodeWorkshop/app/assets/javascripts/templates/all.js",
+		"/Users/scottkawai/Desktop/CodeWorkshop/app/assets/javascripts/templates/index.handlebars",
+		"/Users/scottkawai/Desktop/CodeWorkshop/app/views/ember/start.html.erb",
+		"/Users/scottkawai/Desktop/CodeWorkshop/app/assets/javascripts/templates/application.handlebars",
+		"/Users/scottkawai/Desktop/CodeWorkshop/app/assets/javascripts/application.js",
+		"/Users/scottkawai/Desktop/CodeWorkshop/app/assets/javascripts/router.js",
+		"/Users/scottkawai/Desktop/CodeWorkshop/app/assets/javascripts/code_workshop.js.coffee",
+		"/Users/scottkawai/Desktop/CodeWorkshop/app/assets/javascripts/application.js.coffee",
+		"/Users/scottkawai/Desktop/CodeWorkshop/app/assets/javascripts/views/index.hbs",
+		"/Users/scottkawai/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/scottkawai/Desktop/CodeWorkshop/app/controllers/ember_controller.rb",
+		"/Users/scottkawai/Desktop/codeworkshop/app/controllers/application_controller.rb",
+		"/Users/scottkawai/Desktop/codeworkshop/app/helpers/application_helper.rb",
+		"/Users/scottkawai/Desktop/codeworkshop/app/assets/javascripts/router.js.coffee",
+		"/Users/scottkawai/Code/replayr_website/javascripts/views/application.hbs",
+		"/Users/scottkawai/Code/replayr_website/updates/releasenotes.md",
+		"/Users/scottkawai/Code/replayr_website/Gruntfile.js",
+		"/Users/scottkawai/Code/replayr_website/stylesheets/main.less",
+		"/Users/scottkawai/Code/replayr_website/markdown/help.md",
+		"/Users/scottkawai/Code/replayr_website/javascripts/views/help.hbs",
+		"/Users/scottkawai/Code/replayr_website/api/feedback.php",
+		"/Users/scottkawai/Code/replayr_website/api/email_templates/submission.html",
+		"/Users/scottkawai/Code/replayr_website/javascripts/controllers/FeedbackController.js",
+		"/Users/scottkawai/Code/replayr_website/updates/releasenotes.html",
+		"/Users/scottkawai/Desktop/test.js",
+		"/Users/scottkawai/Code/replayr_website/javascripts/routes/HelpRoute.js",
+		"/Users/scottkawai/Code/replayr_website/javascripts/views/download.hbs",
+		"/Users/scottkawai/Code/replayr_website/email_templates/submission.txt",
+		"/Users/scottkawai/Code/replayr_website/markdown/home.md",
+		"/Users/scottkawai/Code/replayr_website/javascripts/views/home.hbs",
+		"/Users/scottkawai/Code/replayr_website/javascripts/views/feedback.hbs",
+		"/Users/scottkawai/Code/replayr_website/javascripts/routes/FeedbackRoute.js",
+		"/Users/scottkawai/Code/replayr_website/email_templates/submission.html",
+		"/Users/scottkawai/Code/replayr_website/javascripts/routes/HomeRoute.js",
+		"/Users/scottkawai/Code/replayr_website/index.html",
+		"/Users/scottkawai/Code/replayr_website/package.json",
+		"/Users/scottkawai/Code/replayr_website/javascripts/libs/showdown.js",
+		"/Users/scottkawai/Code/replayr_website/.gitignore",
+		"/Users/scottkawai/Code/replayr_website/banner.html",
+		"/Users/scottkawai/Code/replayr_website/banner.hyperesources/banner_hype_generated_script.js",
+		"/Users/scottkawai/Code/replayr_website/stylesheets/feedback.less",
+		"/Users/scottkawai/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/scottkawai/Code/replayr_website/javascripts/views/feedback",
+		"/Users/scottkawai/Code/replayr_website/javascripts/controllers/HomeController.js",
+		"/Users/scottkawai/Code/replayr_website/stylesheets/shared.less",
+		"/Users/scottkawai/Code/replayr_website/assets/application/css/application.css",
+		"/Users/scottkawai/Code/replayr_website/javascripts/controllers/application.js",
+		"/Users/scottkawai/Desktop/codeworkshop/project",
+		"/Users/scottkawai/Desktop/kasi/spec/requests/admin/api/v1/user_api_request_spec.rb",
+		"/Users/scottkawai/Desktop/kasi/config/yml/auth.yml",
+		"/Users/scottkawai/Desktop/kasi/app/controllers/admin/api/v1/users_controller.rb",
+		"/Users/scottkawai/Desktop/php-sendgridlibrary.codebundle/Templates/mail.php",
+		"/Users/scottkawai/Desktop/php-sendgridlibrary.codebundle/Templates/mail_smtpapi.php",
+		"/Users/scottkawai/Desktop/php-sendgridlibrary.codebundle/Info.json",
+		"/Users/scottkawai/Desktop/php-sendgridlibrary.codebundle/Templates/root.php",
+		"/Users/scottkawai/Downloads/EmberJS/starter-kit-1.4.0/index.html",
+		"/Users/scottkawai/Downloads/EmberJS/starter-kit-1.4.0/js/brewery.js",
+		"/Users/scottkawai/Downloads/EmberJS/starter-kit-1.4.0/js/beer.js",
+		"/Users/scottkawai/Downloads/EmberJS/starter-kit-1.4.0/css/brewery.css",
+		"/Users/scottkawai/Downloads/EmberJS/starter-kit-1.4.0/js/app.js",
+		"/Users/scottkawai/Downloads/EmberJS/starter-kit-1.4.0/css/style.css",
+		"/Users/scottkawai/Downloads/EmberJS/starter-kit-1.4.0/css/normalize.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Constants",
+			"self",
+			"_db",
+			",",
+			"resultsPerPage",
+			"ResultsPerPage",
+			"resultsPerPage",
+			"last",
+			"'page'",
+			"page",
+			"last",
+			"query",
+			"AND",
+			"&&",
+			"_decodeAll",
+			"_decode",
+			"Unique",
+			"data",
+			"results.",
+			"results",
+			"data",
+			"response",
+			"model",
+			"data",
+			"model",
+			"availableParams",
+			"searchParams",
+			"schema",
+			"detail",
+			"DetailedSearch",
+			"detailedSearch",
+			"2em",
+			"5px",
+			"2em",
+			"$tables",
+			"$event",
+			"DatabaseController",
+			"php",
+			"Route",
+			"basic_info",
+			">{#",
+			"Controller",
+			"index",
+			"wizard",
+			"3",
+			"advanced_info",
+			"2",
+			"basic_info",
+			"library",
+			"hoverPosition",
+			"IPA",
+			"module",
+			"encoded_id",
+			"<%=",
+			"  ",
+			"#",
+			"ember",
+			" = ",
+			"static NSString *const ",
+			"vendor",
+			"512",
+			":</",
+			"   ",
+			"  ",
+			"table_label",
+			"<td>",
+			"td>",
+			"Showdown",
+			"showdown",
+			"email",
+			"<p>",
+			"<h1>",
+			"2",
+			"75px;",
+			"(@nav_bar_height * (1 - @logo_percent)) / 2;",
+			"@percent",
+			")",
+			"img",
+			"test",
+			"tests",
+			"/users/userid",
+			"/users/user",
+			"setTo",
+			"&gt;",
+			"route",
+			"yellow",
+			"App",
+			"index",
+			"vendor",
+			"'copy:img'",
+			"smtp-id",
+			"static NSString *const ",
+			"event",
+			"]]",
+			"$addresses[",
+			"getJSON",
+			"libs",
+			"stylesheets",
+			"javascripts",
+			"120",
+			"new_tickets",
+			"18px",
+			"new_tickets",
+			"Z3ngr",
+			"getJSON",
+			"CW",
+			"css_vendor",
+			"move",
+			"mv -f ",
+			"bootstrap",
+			"app/assets",
+			"'palette/",
+			"palette/",
+			"palette",
+			"CW =",
+			"App.",
+			"assets",
+			"agents",
+			"email_md5",
+			"count",
+			"agent",
+			":em",
+			":cou",
+			"=>",
+			"agent",
+			":",
+			"tickets_today",
+			"50em"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 1302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								830,
+								830
+							]
+						],
+						"settings":
+						{
+							"parser": "github",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"target": "disk"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/scottkawai/projects/codeworkshop.sublime-project",
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true
+}

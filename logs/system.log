@@ -1,0 +1,11 @@
+2013-10-30T22:10:42-0700 (1383196242) Created new 5271e65210b03.db database.
+2013-10-30T22:10:42-0700 (1383196242) Created table "bounce" in the database.
+2013-10-30T22:10:42-0700 (1383196242) Created table "click" in the database.
+2013-10-30T22:10:42-0700 (1383196242) Created table "deferred" in the database.
+2013-10-30T22:10:42-0700 (1383196242) Created table "delivered" in the database.
+2013-10-30T22:10:42-0700 (1383196242) Created table "dropped" in the database.
+2013-10-30T22:10:42-0700 (1383196242) Created table "open" in the database.
+2013-10-30T22:10:42-0700 (1383196242) Created table "processed" in the database.
+2013-10-30T22:10:42-0700 (1383196242) Created table "spamreport" in the database.
+2013-10-30T22:10:42-0700 (1383196242) Created table "unsubscribe" in the database.
+2013-10-30T22:10:42-0700 (1383196242) Created table "other" in the database.
