@@ -7,6 +7,13 @@ The SendGrid Event Webhook Starter Kit (or "Event Kit") is an open source projec
 - PHP 5.3 or higher
 - SQLite 3 or higher
 
+# Developing on Nitrous.IO
+
+Start hacking on Eventkit with
+[Nitrous.IO](https://www.nitrous.io/?utm_source=github.com&utm_campaign=eventkit&utm_medium=hackonnitrous) in a matter of seconds:
+
+[![Hack sendgrid/eventkit on Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-l-v1-3cc067e71372f6045e1949af9d96095b.png)](https://www.nitrous.io/hack_button?source=embed&runtime=php&repo=sendgrid%2Feventkit&file_to_open=README.nitrous.md)
+
 # Quick Installation
 
 If you just wish to install the project on your web server, you can do so by following the steps [here](http://sendgrid.github.io/eventkit/setup.html).
